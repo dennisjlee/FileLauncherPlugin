@@ -1,0 +1,12 @@
+This plugin provides a hook for Javascript to open a file on the browser's
+machine using the default application, intended for use with the icenine media
+center web app.
+NOTE: currently this is only supported for Windows
+
+This project is built on top of the FireBreath cross-browser plugin framework
+(http://www.firebreath.org/).
+
+For Windows, the project will build an MSI installer if you install WiX and
+re-run the prep script. See
+http://www.firebreath.org/display/documentation/WiX+Installer+Help for more
+help.
